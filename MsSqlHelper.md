@@ -1,4 +1,4 @@
-## Create Table
+## Create Table 
 
 ```sql
   CREATE TABLE Users (
